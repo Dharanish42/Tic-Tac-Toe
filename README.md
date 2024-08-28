@@ -1,1 +1,1 @@
-# Tic-Tac-Toe using html, css, JavaScript 
+# Tic-Tac-Toe using html, Css, JavaScript 
